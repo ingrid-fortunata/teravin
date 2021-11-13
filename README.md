@@ -1,5 +1,9 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Yang sudah dikerjakan
+
+Add personal details, add skills, save them to localStorage, get from localStorage and view on the homepage
+
 ## Getting Started
 
 First, run the development server:
